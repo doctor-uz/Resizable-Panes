@@ -1,3 +1,9 @@
+#### 1. My first [solution](https://github.com/doctor-uz/Resizable-Panes/tree/master/ver1).
+
+#### 2. My second [solution](https://github.com/doctor-uz/Resizable-Panes/tree/master/ver2).
+
+
+
 # Resizable Panes
 
 <img src="panes.gif">
@@ -7,6 +13,4 @@ Lots of sites seem to have resizable panes these days. They're often used to sho
 You'll want to detect mousedown events on the bar that sits on top of the images. After a mousedown (but before a mouseup), the bar should follow the mouse pointer on the x axis but never move out of the area defined by the left edge and right edge of the images. As the bar moves, the visible portions of the images should change correspondingly.
 
 
-
-#### My [solution](url)
 
